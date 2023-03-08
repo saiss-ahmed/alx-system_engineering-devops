@@ -1,2 +1,0 @@
-#!/bin/bash
-ls -xp -a --format=comma
