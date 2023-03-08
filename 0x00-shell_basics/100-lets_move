@@ -1,2 +1,2 @@
 #!/bin/bash 
-mv -r [A-z]* /tmp/u
+mv -r [A-Z]* /tmp/u
