@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown vincent:staff _hello 
+find . -type f -name "_*" -exec chown vincent:staff {}\
