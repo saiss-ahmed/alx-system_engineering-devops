@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u-rx g+x  hello olleh
+chmod u-rx,g+x  hello olleh
