@@ -1,2 +1,2 @@
 #!/bin/bash
- find . -type f -name "*.gif" | rev | cut -d "." -f2,3 | cut -d '/' -f1 | sort -b | sort -f | rev
+find . -type f -name "*.pdf" | rev | cut -d "." -f2,3 | cut -d '/' -f1|LCALL=C sort -f | rev
