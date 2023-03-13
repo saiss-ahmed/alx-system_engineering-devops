@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -name "*.pdf" | rev | cut -d "." -f2,3 | cut -d '/' -f1|LCALL=C sort -f | rev
+find . -type f -name "*.pdf" -printf "%f \n" | rev | cut -d "." -f2,3 | cut -d '/' -f1|LCALL=C sort -f | rev
