@@ -1,1 +1,2 @@
-# this is the readme
+#  hello and this is shell, basics 
+
