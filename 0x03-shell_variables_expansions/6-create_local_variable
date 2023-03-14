@@ -1,5 +1,2 @@
 #!/bin/bash
-function BEST 
-	{
-	   local BEST="School"
-	}
+local BEST="School"
