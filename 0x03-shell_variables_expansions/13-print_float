@@ -1,0 +1,2 @@
+#!/bin/bash
+printf "%u.00 \n" $NUM
